@@ -7,3 +7,4 @@ This repo is meant to help identify security products from screenshots
 - Sophos - ![](/images/sophos.png)
 - Symantec Endpoint Protection - ![](/images/sep.png)
 - FSecure - ![](/images/fsecure.png)
+- ESET - ![](/images/eset.png)
