@@ -8,3 +8,4 @@ This repo is meant to help identify security products from screenshots
 - Symantec Endpoint Protection - ![](/images/sep.png)
 - FSecure - ![](/images/fsecure.png)
 - ESET - ![](/images/eset.png)
+- Kaspersky - ![](/images/kaspersky.png)
