@@ -1,4 +1,4 @@
-# Security Product Taskbar Icons 
+# Security Product Taskbar Icons
 
 This repo is meant to help identify security products from screenshots
 
@@ -16,10 +16,10 @@ This repo is meant to help identify security products from screenshots
 
 ### VPN
 
-- 
+- Cisco AnyConnect VPN ![](/images/Cisco_VPN.jpg)
 
 ### Backup or File Sync
 
-- 
+- Code42 CrashPlan ![](/images/Code42_CrashPlan_Backup.jpg)
 
-### 
+###
