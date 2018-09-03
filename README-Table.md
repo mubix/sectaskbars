@@ -29,7 +29,7 @@
 ### Backup or File Sync
 | Icon 															| Product 								|
 | :---:															| :--- 									|
-| ![](/images/icloud)											| Apple iCloud 							|
+| ![](/images/icloud.png)										| Apple iCloud 							|
 | ![](/images/Code42_CrashPlan_Backup.jpg) 						| Code42 CrashPlan 						|
 | ![](/images/dropbox.png)										| Dropbox 								|
 | ![](/images/duplicati.png)									| Duplicati 							|
