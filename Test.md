@@ -1,52 +1,52 @@
 # Security Product Taskbar Icons
 
 ### Antivirus/End-Point Security
-| Product 							| Icon 												|
-| :--- 								| :---:												|
-| Cylance Protect 					| ![](/images/cylance-protect.png) 					|
-| ESET 								| ![](/images/eset.png) 							|	
-| FSecure 							| ![](/images/fsecure.png) 							|
-| Kaspersky 						| ![](/images/kaspersky.png) 						|
-| McAfee Home						| ![](/images/mcafee_home.png) 						|
-| McAfee VirusScan  				| ![](/images/mcafee_enterprise.png) 				|
-| Microsoft Windows Defender 		| ![](/images/win_defender.png) 					|
-| Sophos							| ![](/images/sophos.png)							|
-| Symantec Endpoint Protection 		| ![](/images/sep.png) 								|
-
-### VPN
-| Product 							| Icon 			|
-| :--- 								| :---:			|
-| Cisco AnyConnect VPN 				| ![](/images/Cisco_VPN.jpg) |
-| Juniper Pulse Secure 				| ![](/images/pulse-vpn-disconnected.png) |
-| Palo Alto GlobalProtect 			| ![](/images/vpn-palo-alto-globalprotect.png) |
-| Private Internet Access 			| ![](/images/VPN-Private-Internet-Access-Connected.png) |
+| Icon 													| Product 							|
+| :---:													| :--- 								|
+| ![](/images/cylance-protect.png) 						| Cylance Protect 					|
+| ![](/images/eset.png) 								| ESET 								|	
+| ![](/images/fsecure.png) 								| FSecure 							|
+| ![](/images/kaspersky.png) 							| Kaspersky 						|
+| ![](/images/mcafee_home.png) 							| McAfee Home						|
+| ![](/images/mcafee_enterprise.png) 					| McAfee VirusScan  				|
+| ![](/images/win_defender.png) 						| Microsoft Windows Defender 		|
+| ![](/images/sophos.png)								| Sophos							|
+| ![](/images/sep.png) 									| Symantec Endpoint Protection 		|
+	
+### VPN	
+| Icon 													| Product 							|
+| :---:													| :--- 								|
+| ![](/images/Cisco_VPN.jpg)							| Cisco AnyConnect VPN 				|
+| ![](/images/pulse-vpn-disconnected.png) 				| Juniper Pulse Secure 				|	
+| ![](/images/vpn-palo-alto-globalprotect.png) 			| Palo Alto GlobalProtect 			|
+| ![](/images/VPN-Private-Internet-Access-Connected.png)| Private Internet Access 			|
 
 ### Backup or File Sync
-| Product 							| Icon 			|
-| :--- 								| :---:			|
-| Apple iCloud 						|	|
-| Code42 CrashPlan 					| ![](/images/Code42_CrashPlan_Backup.jpg) |
-| Dropbox 							| ![](/images/dropbox.png)|
-| Duplicati 						| ![](/images/duplicati.png)|
-| Google Backup and Sync 			| ![](/images/google-backup-and-sync.png)|
-| Microsoft Onedrive Personal 		| ![](/images/onedrive.png)|
-| Microsoft Onedrive Business 		| ![](/images/onedrive-biz.png)|
+| Icon 													| Product 							|
+| :---:													| :--- 								|
+|	|| Apple iCloud 						
+| ![](/images/Code42_CrashPlan_Backup.jpg) 				| Code42 CrashPlan 					|
+| ![](/images/dropbox.png)								| Dropbox 							|
+| ![](/images/duplicati.png)							| Duplicati 						|
+| ![](/images/google-backup-and-sync.png)				| Google Backup and Sync 			|
+| ![](/images/onedrive.png)								| Microsoft Onedrive Personal 		|
+| ![](/images/onedrive-biz.png)							| Microsoft Onedrive Business 		|
 
 ### Firewall/Monitoring
-| Product 							| Icon 			|
-| :--- 								| :---:			|
-| Glasswire (with notifications) 	| ![](/images/Glasswire-with-alerts.png)|
+| Icon 													| Product 							|
+| :---:													| :--- 								|
+| ![](/images/Glasswire-with-alerts.png)				| Glasswire (with notifications) 	|
 
 
 ### Password Managers
-| Product 							| Icon 			|
-| :--- 								| :---:			|
-| KeePassXC							| ![](/images/KeePassXC.png)|
+| Icon 													| Product 							|
+| :---:													| :--- 								|
+| ![](/images/KeePassXC.png)							| KeePassXC							|
 		
 ### Automation/Tools		
-| Product 							| Icon 			|
-| :--- 								| :---:			|
-| Autohotkey 						| ![](/images/autohotkey.png) |
-| Cisco Proximity Client 			| ![](/images/cisco-proximity-screen-sharing.png)|
+| Icon 													| Product 							|
+| :---:													| :--- 								|
+| ![](/images/autohotkey.png) 							| Autohotkey 						|
+| ![](/images/cisco-proximity-screen-sharing.png)		| Cisco Proximity Client 			|
 
 ###
