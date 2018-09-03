@@ -12,13 +12,13 @@
 | ![](/images/win_defender.png) 						| Microsoft Windows Defender 			|
 | ![](/images/sophos.png)								| Sophos								|
 | ![](/images/sep.png) 									| Symantec Endpoint Protection 			|
-		
+
 ### VPN		
 | Icon 													| Product 								|
 | :---:													| :--- 									|
 | ![](/images/Cisco_VPN.jpg)							| Cisco AnyConnect VPN 					|
 | ![](/images/elastica-reach-agent.png)					| Elastica Reach Agent 					|
-| ![](/images/pulse-vpn-disconnected.png) 				| Juniper Pulse Secure (Disconnected)	|	
+| ![](/images/pulse-vpn-disconnected.png) 				| Juniper Pulse Secure (Disconnected)	|
 | ![](/images/pulse-secure-vpn-mac.png)					| Juniper Pulsee Mac (Connected)    	|
 | ![](/images/vpn-palo-alto-globalprotect.png) 			| Palo Alto GlobalProtect 				|
 | ![](/images/VPN-Private-Internet-Access-Connected.png)| Private Internet Access 				|
@@ -45,7 +45,7 @@
 | :---:													| :--- 									|
 | ![](/images/keepass.png)								| KeePass								| 
 | ![](/images/KeePassXC.png)							| KeePassXC								|
-			
+	
 ### Automation/Tools			
 | Icon 													| Product 								|
 | :---:													| :--- 									|

@@ -20,7 +20,7 @@ This repo is meant to help identify security products from screenshots
 - Cisco AnyConnect VPN - ![](/images/Cisco_VPN.jpg)
 - Elastica Reach Agent - ![](/images/elastica-reach-agent.png)
 - Juniper Pulse Secure (Disconnected) - ![](/images/pulse-vpn-disconnected.png)
-- Juniper Pulse Mac (Connected - ![](/images/pulse-secure-vpn-mac.png)
+- Juniper Pulse Mac (Connected) -  ![](/images/pulse-secure-vpn-mac.png)
 - Palo Alto GlobalProtect - ![](/images/vpn-palo-alto-globalprotect.png)
 - Private Internet Access - ![](/images/VPN-Private-Internet-Access-Connected.png)
 
