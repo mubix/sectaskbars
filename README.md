@@ -40,6 +40,4 @@ KeePassXC - ![](/images/KeePassXC.png)
 ### Automation/Tools
 Autohotkey - ![](/images/autohotkey.png)
 Cisco Proximity Client - ![](/images/cisco-proximity-screen-sharing.png)
-
-
 ###
