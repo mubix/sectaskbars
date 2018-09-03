@@ -41,6 +41,7 @@
 ### Password Managers
 | Icon 													| Product 							|
 | :---:													| :--- 								|
+| ![](/images/KeePassXC.png)							| KeePass							| 
 | ![](/images/KeePassXC.png)							| KeePassXC							|
 		
 ### Automation/Tools		
