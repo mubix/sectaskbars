@@ -18,7 +18,9 @@ This repo is meant to help identify security products from screenshots
 ### VPN
 
 - Cisco AnyConnect VPN - ![](/images/Cisco_VPN.jpg)
-- Juniper Pulse Secure - ![](/images/pulse-vpn-disconnected.png)
+- Elastica Reach Agent - ![](/images/elastica-reach-agent.png)
+- Juniper Pulse Secure (Disconnected) - ![](/images/pulse-vpn-disconnected.png)
+- Juniper Pulse Mac (Connected - ![](/images/pulse-secure-vpn-mac.png)
 - Palo Alto GlobalProtect - ![](/images/vpn-palo-alto-globalprotect.png)
 - Private Internet Access - ![](/images/VPN-Private-Internet-Access-Connected.png)
 
@@ -37,6 +39,7 @@ This repo is meant to help identify security products from screenshots
 ### Password Managers
 - KeePass	- ![](/images/keepass.png)							
 - KeePassXC - ![](/images/KeePassXC.png)
+
 ### Automation/Tools
 - Autohotkey - ![](/images/autohotkey.png)
 - Cisco Proximity Client - ![](/images/cisco-proximity-screen-sharing.png)
