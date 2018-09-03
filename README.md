@@ -35,7 +35,7 @@ This repo is meant to help identify security products from screenshots
 - Glasswire (with alerts) - ![](/images/Glasswire-with-alerts.png)
 
 ### Password Managers
-- KeePass	- ![](/images/KeePass.png)							
+- KeePass	- ![](/images/keepass.png)							
 - KeePassXC - ![](/images/KeePassXC.png)
 ### Automation/Tools
 - Autohotkey - ![](/images/autohotkey.png)
