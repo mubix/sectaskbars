@@ -32,12 +32,13 @@ This repo is meant to help identify security products from screenshots
 - Duplicati - ![](/images/duplicati.png)
 
 ### Firewall/Monitoring
-Glasswire (with alerts) - ![](/images/Glasswire-with-alerts.png)
+- Glasswire (with alerts) - ![](/images/Glasswire-with-alerts.png)
 
 ### Password Managers
-KeePassXC - ![](/images/KeePassXC.png)
+- KeePassXC - ![](/images/KeePassXC.png)
 
 ### Automation/Tools
-Autohotkey - ![](/images/autohotkey.png)
-Cisco Proximity Client - ![](/images/cisco-proximity-screen-sharing.png)
+- Autohotkey - ![](/images/autohotkey.png)
+- Cisco Proximity Client - ![](/images/cisco-proximity-screen-sharing.png)
+
 ###
