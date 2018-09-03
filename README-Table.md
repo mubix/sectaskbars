@@ -5,7 +5,7 @@
 | :---:															| :--- 									|
 | ![](/images/blockblock-mac-malware-persistence-monitor.png) 	| BlockBlock Mac 						|
 | ![](/images/cylance-protect.png) 								| Cylance Protect 						|
-| ![](/images/eset.png) 										| ESET 									|	
+| ![](/images/eset.png) 										| ESET 									|
 | ![](/images/fsecure.png) 										| FSecure 								|
 | ![](/images/kaspersky.png) 									| Kaspersky 							|
 | ![](/images/mcafee_home.png) 									| McAfee Home							|
@@ -13,8 +13,8 @@
 | ![](/images/win_defender.png) 								| Microsoft Windows Defender 			|
 | ![](/images/sophos.png)										| Sophos								|
 | ![](/images/sep.png) 											| Symantec Endpoint Protection 			|
-	
-### VPN				
+
+### VPN
 | Icon 															| Product 								|
 | :---:															| :--- 									|
 | ![](/images/Cisco_VPN.jpg)									| Cisco AnyConnect VPN 					|
@@ -26,10 +26,10 @@
 | ![](/images/viscosity-vpn-connected.png)						| Viscocity VPN (Connected)				|
 | ![](/images/viscosity-vpn-disconnected.png)					| Viscocity VPN (Disconnected)			|
 
-### Backup or File Sync			
+### Backup or File Sync
 | Icon 															| Product 								|
 | :---:															| :--- 									|
-|	|| Apple iCloud 									
+| ![](/images/icloud)											| Apple iCloud 							|
 | ![](/images/Code42_CrashPlan_Backup.jpg) 						| Code42 CrashPlan 						|
 | ![](/images/dropbox.png)										| Dropbox 								|
 | ![](/images/duplicati.png)									| Duplicati 							|
@@ -38,7 +38,7 @@
 | ![](/images/onedrive-biz.png)									| Microsoft Onedrive Business 			|
 | ![](/images/tresorit.png)										| Tresorit 								|
 
-### Firewall/Monitoring			
+### Firewall/Monitoring
 | Icon 															| Product 								|
 | :---:															| :--- 									|
 | ![](/images/Glasswire-with-alerts.png)						| Glasswire (with notifications) 		|
@@ -48,13 +48,13 @@
 | ![](/images/micro-snitch-mic-webcam-monitor.png)				| Micro Snitch WebCam/Mic 				|
 | ![](/images/oversight-mic-webcam-monitor.png)					| OverSight WebCam/Mic					|
 
-### Password Managers			
+### Password Managers
 | Icon 															| Product 								|
 | :---:															| :--- 									|
-| ![](/images/keepass.png)										| KeePass								| 
+| ![](/images/keepass.png)										| KeePass								|
 | ![](/images/KeePassXC.png)									| KeePassXC								|
 
-### Automation/Tools					
+### Automation/Tools
 | Icon 															| Product 								|
 | :---:															| :--- 									|
 | ![](/images/autohotkey.png) 									| Autohotkey 							|
