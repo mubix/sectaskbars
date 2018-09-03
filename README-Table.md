@@ -23,8 +23,8 @@
 | ![](/images/pulse-secure-vpn-mac.png)							| Juniper Pulsee Mac (Connected)    	|
 | ![](/images/vpn-palo-alto-globalprotect.png) 					| Palo Alto GlobalProtect 				|
 | ![](/images/VPN-Private-Internet-Access-Connected.png)		| Private Internet Access 				|
-| ![](/images/viscosity-vpn-connected.png						| Viscocity VPN (Connected)				|
-| ![](/images/viscosity-vpn-disconnected.png					| Viscocity VPN (Disconnected)			|
+| ![](/images/viscosity-vpn-connected.png)						| Viscocity VPN (Connected)				|
+| ![](/images/viscosity-vpn-disconnected.png)					| Viscocity VPN (Disconnected)			|
 
 ### Backup or File Sync			
 | Icon 															| Product 								|

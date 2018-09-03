@@ -22,8 +22,8 @@ This repo is meant to help identify security products from screenshots
 - Juniper Pulse Secure (Disconnected) 	- ![](/images/pulse-vpn-disconnected.png)
 - Palo Alto GlobalProtect 				- ![](/images/vpn-palo-alto-globalprotect.png)
 - Private Internet Access 				- ![](/images/VPN-Private-Internet-Access-Connected.png)
-| Viscocity VPN (Connected)				- ![](/images/viscosity-vpn-connected.png						
-| Viscocity VPN (Disconnected) 			- ![](/images/viscosity-vpn-disconnected.png					
+- Viscocity VPN (Connected)				- ![](/images/viscosity-vpn-connected.png)					
+- Viscocity VPN (Disconnected) 			- ![](/images/viscosity-vpn-disconnected.png)
 
 ### Backup or File Sync
 - Code42 CrashPlan 						- ![](/images/Code42_CrashPlan_Backup.jpg)
