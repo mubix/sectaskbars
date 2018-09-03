@@ -26,8 +26,8 @@ This repo is meant to help identify security products from screenshots
 
 - Code42 CrashPlan - ![](/images/Code42_CrashPlan_Backup.jpg)
 - Google Backup and Sync - ![](/images/google-backup-and-sync.png)
-- Microsoft Onedrive Personal - ![](/images/ondrive.png)
-- Microsoft Onedrive Business - ![](/images/ondrive-biz.png)
+- Microsoft Onedrive Personal - ![](/images/onedrive.png)
+- Microsoft Onedrive Business - ![](/images/onedrive-biz.png)
 - Dropbox - ![](/images/dropbox.png)
 - Duplicati - ![](/images/duplicati.png)
 
@@ -35,9 +35,11 @@ This repo is meant to help identify security products from screenshots
 Glasswire (with alerts) - ![](/images/Glasswire-with-alerts.png)
 
 ### Password Managers
-KeePassXC - ![](/images/KeyPassXC.png)
+KeePassXC - ![](/images/KeePassXC.png)
 
-### Automation Tools
+### Automation/Tools
 Autohotkey - ![](/images/autohotkey.png)
+Cisco Proximity Client - ![](/images/cisco-proximity-screen-sharing.png)
+
 
 ###
