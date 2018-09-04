@@ -1,5 +1,7 @@
 # Security Product Taskbar Icons
 
+This repo is meant to help identify security products from screenshots
+
 ### Antivirus/End-Point Security
 | Icon                                                          | Product                               |
 | :---:                                                         | :---                                  |
