@@ -14,6 +14,8 @@ This repo is meant to help identify security products from screenshots
 - Microsoft Windows Defender            - ![](/images/win_defender.png)
 - Sophos                                - ![](/images/sophos.png)
 - Symantec Endpoint Protection          - ![](/images/sep.png)
+- Webroot Endpoint Security             - ![](/images/webroot.png)
+
 
 ### VPN
 - Cisco AnyConnect VPN                  - ![](/images/Cisco_VPN.jpg)
