@@ -54,6 +54,7 @@ This repo is meant to help identify security products from screenshots
 - Autohotkey                            - ![](/images/autohotkey.png)
 - Cisco Proximity Client                - ![](/images/cisco-proximity-screen-sharing.png)
 - Citrix Receiver                       - ![](/images/citrix-receiver.png)
+- Microsoft Windows Bluetooth           - ![](/images/bluetooth.png)
 - Microsoft Windows Update (Win7)       - ![](/images/Windows-Update.png)
 - Oracle VirtualBox                     - ![](/images/virtual-box.png)
 - Suunto Moveslink (Watch sync)         - ![](/images/moveslink-movescount.png)
