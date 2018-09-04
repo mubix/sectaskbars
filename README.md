@@ -68,8 +68,8 @@ This repo is meant to help identify security products from screenshots
 | ![](/images/citrix-receiver.png)                              | Citrix Receiver                       | 
 | ![](/images/Windows-Update.png)                               | Microsoft Windows Update (Win7)       |
 | ![](/images/virtual-box.png)                                  | Oracle VirtualBox                     |
+| ![](/images/moveslink-movescount.png)                         | Suunto Moveslink (Watch sync)         |
 | ![](/images/TeamViewer.png)                                   | TeamViewer                            |           
-| ![](/images/moveslink-movescount.png)                         | Moveslink (Watch sync software)       |
 
 
 ###
