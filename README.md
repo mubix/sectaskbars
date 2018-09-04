@@ -12,6 +12,7 @@ This repo is meant to help identify security products from screenshots
 | ![](/images/kaspersky.png)                                    | Kaspersky                             |
 | ![](/images/mcafee_home.png)                                  | McAfee Home                           |
 | ![](/images/mcafee_enterprise.png)                            | McAfee VirusScan                      |
+| ![](/images/System-Center-Endpoint-Protection.png)            | Microsoft System Center Endpoint      |
 | ![](/images/win_defender.png)                                 | Microsoft Windows Defender            |
 | ![](/images/sophos.png)                                       | Sophos                                |
 | ![](/images/sep.png)                                          | Symantec Endpoint Protection          |
