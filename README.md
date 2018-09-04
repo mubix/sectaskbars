@@ -2,6 +2,7 @@
 
 This repo is meant to help identify security products from screenshots
 
+
 ### Antivirus/End-Point Security
 | Icon                                                          | Product                               |
 | :---:                                                         | :---                                  |
@@ -13,11 +14,11 @@ This repo is meant to help identify security products from screenshots
 | ![](/images/mcafee_home.png)                                  | McAfee Home                           |
 | ![](/images/mcafee_enterprise.png)                            | McAfee VirusScan                      |
 | ![](/images/System-Center-Endpoint-Protection.png)            | Microsoft System Center Endpoint      |
-| ![](/images/win_defender.png)                                 | Microsoft Windows Defender            |
+| ![](/images/win_defender.png)                                 | Microsoft Windows Defender (Win10)    |
+| ![](/images/Defender.png)                                     | Microsoft Windows Defender (Win7)     |
 | ![](/images/sophos.png)                                       | Sophos                                |
 | ![](/images/sep.png)                                          | Symantec Endpoint Protection          |
 | ![](/images/webroot.png)                                      | Webroot Endpoint Security             |
-
 
 ### VPN
 | Icon                                                          | Product                               |
@@ -64,5 +65,11 @@ This repo is meant to help identify security products from screenshots
 | :---:                                                         | :---                                  |
 | ![](/images/autohotkey.png)                                   | Autohotkey                            |
 | ![](/images/cisco-proximity-screen-sharing.png)               | Cisco Proximity Client                |
+| ![](/images/citrix-receiver.png)                              | Citrix Receiver                       | 
+| ![](/images/Windows-Update.png)                               | Microsoft Windows Update (Win7)       |
+| ![](/images/virtual-box.png)                                  | Oracle VirtualBox                     |
+| ![](/images/TeamViewer.png)                                   | TeamViewer                            |           
+| ![](/images/moveslink-movescount.png)                         | Moveslink (Watch sync software)       |
+
 
 ###
