@@ -11,9 +11,12 @@ This repo is meant to help identify security products from screenshots
 - Kaspersky                             - ![](/images/kaspersky.png)
 - McAfee EPO                            - ![](/images/mcafee_enterprise.png)
 - McAfee Home                           - ![](/images/mcafee_home.png)
-- Microsoft Windows Defender            - ![](/images/win_defender.png)
+- Microsoft System Center Endpoint      - ![](/images/System-Center-Endpoint-Protection.png)
+- Microsoft Windows Defender (Win10)    - ![](/images/win_defender.png)
+- Microsoft Windows Defender (Win7)     - ![](/images/Defender.png)
 - Sophos                                - ![](/images/sophos.png)
 - Symantec Endpoint Protection          - ![](/images/sep.png)
+- Webroot Endpoint Security             - ![](/images/webroot.png)
 
 ### VPN
 - Cisco AnyConnect VPN                  - ![](/images/Cisco_VPN.jpg)
@@ -50,5 +53,11 @@ This repo is meant to help identify security products from screenshots
 ### Automation/Tools
 - Autohotkey                            - ![](/images/autohotkey.png)
 - Cisco Proximity Client                - ![](/images/cisco-proximity-screen-sharing.png)
+- Citrix Receiver                       - ![](/images/citrix-receiver.png)
+- Microsoft Windows Bluetooth           - ![](/images/bluetooth.png)
+- Microsoft Windows Update (Win7)       - ![](/images/Windows-Update.png)
+- Oracle VirtualBox                     - ![](/images/virtual-box.png)
+- Suunto Moveslink (Watch sync)         - ![](/images/moveslink-movescount.png)
+- TeamViewer                            - ![](/images/TeamViewer.png)
 
 ###
