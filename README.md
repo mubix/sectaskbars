@@ -49,6 +49,7 @@ This repo is meant to help identify security products from screenshots
 | ![](/images/lulu-firewall.png)                                | LuLu Firewall (Mac)                   |
 | ![](/images/micro-snitch-mic-webcam-monitor.png)              | Micro Snitch WebCam/Mic               |
 | ![](/images/oversight-mic-webcam-monitor.png)                 | OverSight WebCam/Mic                  |
+| ![](/images/ReiKey.png)                                       | ReiKey Keylogging Monitor (Mac)       |
 
 ### Password Managers
 | Icon                                                          | Product                               |
